@@ -17,7 +17,7 @@ SecureFileTransfer_vf/
 │ │ ├── ClientTransferHandler.java
 │ │ ├── FileMetadata.java
 │ │ └── CryptoUtils.java
-├── README.md # Ce fichier             # Ce fichier
+├── README.md # Ce fichier
 ```
 
 > Les fichiers `.jar` sont les exécutables prêts à l'emploi.
