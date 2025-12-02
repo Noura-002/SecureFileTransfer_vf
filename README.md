@@ -2,6 +2,27 @@
 
 Ce projet est une application **Client-Serveur** en Java permettant le transfert sécurisé de fichiers via TCP, avec chiffrement AES et vérification d'intégrité SHA-256.
 
+------------------------------------------------------------------------
+
+## 📥 Installation de Java (JDK 17)
+
+Avant d'exécuter les fichiers `.jar`, vous devez installer **Java JDK
+17**, car il n'est pas inclus dans le projet.
+
+### 🔹 Étape 1 : Télécharger JDK 17
+
+Téléchargez la version JDK 17 depuis le site officiel de Java ou depuis
+n'importe quelle distribution OpenJDK compatible.\
+Choisissez la version correspondant à votre système (Windows, macOS ou
+Linux).
+
+### 🔹 Étape 2 : Installer
+
+-   Lancez le fichier d'installation.\
+-   Cliquez sur **Next** jusqu'à la fin.\
+-   Java sera automatiquement configuré sur votre système (incluant
+    l'ajout dans le PATH selon l'installateur).
+
 ---
 
 ## Contenu du dépôt
